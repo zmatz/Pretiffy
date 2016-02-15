@@ -1,0 +1,30 @@
+.navega{
+	text-align: center;
+	margin: 20px;
+}
+
+
+li {
+	display: inline-block;
+}
+
+li>a {
+	text-decoration: none;
+	padding: 5px;
+}
+
+.identidad {
+	background: url("../images/background.jpg");
+	text-align: center;
+	color: white;
+	background-size: cover;	
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h3 {
+	font-size: 35px;
+
+}
