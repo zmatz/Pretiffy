@@ -1,3 +1,7 @@
+* {
+	font-family: 'Lora';
+}
+
 .navega {
 	text-align: center;
 	margin: 20px;
@@ -25,11 +29,11 @@ li>a {
 }
 
 h1 {
-	font-size: 50px;
+	font-size: 45px;
 }
 
 h2 {
-	font-size: 35px;
+	font-size: 30px;
 }
 
 h2,h4 {
@@ -39,42 +43,48 @@ h2,h4 {
 }
 
 h3 {
-	font-size: 30px;
+	font-size: 20px;
 }
 
 p {
-	padding: 30px 10px;
+	padding: 35px 10px;
 	font-size: 20px;
 }
 
 #about-E { 
-	padding: 30px;
+	padding: 50px;
 	background: url("../images/tile1.png");
 }
 
 .EmmaG {
-	border: 3px solid gray;
+	border: 1px solid gray;
 	padding: 3px;
-	margin: 30px;
-	height: 200px;
+	margin: 35px;
+	height: 280px;
 	float: left;
 }
 
 #favourites {
 	text-align: center;
 	color: #9966ff;
+	padding: 80px;
 }
 
 .fav {
-	border-radius: 50%;
-	height: 150px;
+	border-radius: 10%;
+	height: 200px;
 	border: 3px solid #9966ff;
-	margin: 40px;
+	margin: 50px;
+}
+
+
+#contact {
+	padding: 80px;
 }
 
 .icon {
 	border-radius: 50%;
-	height: 100px;
+	height: 80px;
 	border: 3px solid #9966ff;
 	margin: 30px 0px;
 }
